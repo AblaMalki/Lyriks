@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-  Inside the Filmpire app, I worked with the most modern, and in-demand technologies in the JavaScript ecosystem, such as React.js, Material UI, Redux, Alan AI, CSS, and more!
+  Inside the Lyriks app, I worked with the most modern, and in-demand technologies in the JavaScript ecosystem, such as React.js, Tailwind CSS, Redux, Shazam API, CSS, and more!
   <br/>
 </p>
 <p align="left">
