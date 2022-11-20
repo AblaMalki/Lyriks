@@ -1,12 +1,12 @@
 <h1 align="center">
-  FILMPIRE
+  LYRIKS
 </h1>
 <br/>
 
 <img align="center" src="src/assets/images/lyriks.png" />
 <br/>
 <p align="center">
-  Filmpire Is an AI powered Movies Application  With IMDB Features, the Filmpire app combines the industry's most advanced JavaScript tools including React.js, Material UI, Alan AI, and more.
+  Modern and improved cloned version of Spotify. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts.
 </p>
 
 <br/>
@@ -26,7 +26,7 @@
   <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <p> A Predictable State Container <br/> for JS Apps </p>
   
-   <img align="left" alt="MaterialUi" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <p> A React UI tools that help to <br/> ship new features faster. </p>
+   <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <p> A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.. </p>
     
 </p>
